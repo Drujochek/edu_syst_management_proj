@@ -1,10 +1,10 @@
 {
-  "name": "edu_db_labs",
-  "version": "2.1.0",
+  "name": "edu_syst_management_proj",
+  "version": "1.0.0",
   "main": "index.js",
-  "description": "Databases labs template",
-  "repository": "https://github.com/boldak/dis-edu",
-  "author": "Andrey Boldak <boldak.andrey@gmail.com>",
+  "description": "Databases labs",
+  "repository": "https://github.com/Aslanch1k/edu_syst_management_proj",
+  "author": "Dmytro Dudchyk <zxerfgty@gmail.com>",
   "license": "ECL 2.0",
   "scripts": {
     "docs:dev": "npx vuepress dev docs",
